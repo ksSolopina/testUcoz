@@ -1,0 +1,19 @@
+.container{
+    margin-top: 70px;
+}
+form{
+    margin-bottom: 30px;
+}
+tr .fa{
+    visibility: hidden;
+    color: #428bca;
+}
+tr:hover .fa{
+    visibility: visible;
+}
+.fa{
+    cursor: pointer;
+}
+th, td{
+    /*text-align: center;*/
+}

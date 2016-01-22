@@ -1,0 +1,27 @@
+{
+  "name": "Task",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksSolopina/testUcoz"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksSolopina/testUcoz"
+  },
+  "homepage": "https://github.com/ksSolopina/testUcoz",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-uglify": "^1.2.0"
+  }
+}
